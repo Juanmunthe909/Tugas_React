@@ -1,2 +1,1 @@
-"# Tugas_React" 
 The task is to create a basic Todo application in React Native with features to add, mark, and delete tasks, while persisting data using AsyncStorage. The app should use functional components and hooks like useState and useEffect. The UI should be mobile-friendly and intuitive. Bonus challenges include task editing, filtering, swipe-to-delete, unit tests, and syncing with a mock API. Proper code structure and error handling are essential for evaluation.
